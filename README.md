@@ -9,4 +9,4 @@ Cara bermain ada didalam menu game.
 * Luas papan permainan bisa diatur  
 
 ### Other
-Download game dalam bentuk jar dan exe pada [link ini](http://fikriarroisi.com/projects/)
+Download game dalam bentuk .jar dan .exe pada [link ini](http://fikriarroisi.com/projects/)
