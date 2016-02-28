@@ -1,7 +1,7 @@
 Pingdol Game (TicTacToe)
 ====
 ### Deskripsi  
-Permainan Pingdol atau *TicTacToe* dengan interface berbasis command line (CLI), menggunakan bahasa JAVA.  
+Permainan Pingdol atau *TicTacToe* dengan interface berbasis command line (CLI), menggunakan bahasa **JAVA**.  
 Cara bermain ada didalam menu game.  
 
 ### Fitur
