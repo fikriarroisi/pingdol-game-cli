@@ -10,9 +10,3 @@ Cara bermain ada didalam menu game.
 
 ### Other
 Untuk mendownload game dalam bentuk .jar dan .exe ada pada [link ini](http://fikriarroisi.com/projects/).
-=======
-* Mencatat data permainan
-* Luas papan permainan bisa diatur  
-
-### Other
-Untuk mendownload game dalam bentuk .jar dan .exe ada pada [link ini](http://fikriarroisi.com/projects/).
